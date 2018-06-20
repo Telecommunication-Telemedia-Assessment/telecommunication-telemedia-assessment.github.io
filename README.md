@@ -1,4 +1,4 @@
-# Who are we?
+# Telecommunication-Telemedia-Assessment — who are we?
 
 This GitHub organization is a team of researchers who are working on methods, tools, and solutions for the assessment of telecommunication and telemedia technology. Key aspect of our approach is to consider both the user and technical information (system parameters, signals) in the assessment of technology.
 
