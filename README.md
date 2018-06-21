@@ -23,7 +23,7 @@ We are current or former members of two university chairs:
 
 ## Virtual Reality
 
-- [AVTrack360](https://github.com/Telecommunication-Telemedia-Assessment/AVTrack360): This repository contains AVTrack360, a tool for recording the 3 rotation angles Pitch/Yaw/Roll around the 3 Axes X/Y/Z while a user is watching an omnidirectional video via an HMD.
+- [AVTrack360](https://github.com/Telecommunication-Telemedia-Assessment/AVTrack360): This repository contains AVTrack360, a tool for recording the 3 rotation angles Pitch/Yaw/Roll around the 3 Axes X/Y/Z while a user is watching an omnidirectional video via an HMD. It also contains a dataset of the head rotation data and Simulator Sickness Questionnaire (SSQ) results of 48 participants watching 20 30s long different omnidirectional videos using the HTC Vive. Tools for evaluating the SSQ and head rotation data are also given.
 
 ## CrowdSourcing
 
