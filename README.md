@@ -28,3 +28,7 @@ We are current or former members of two university chairs:
 ## CrowdSourcing
 
 - [CrowdWatcher](https://github.com/Telecommunication-Telemedia-Assessment/CrowdWatcher): This project is the open-source eye tracking platform. It enables researchers to measure visual attention and user engagement in a crowdsourcing context through traditional RGB webcams.
+
+## Other Projects
+Our projects constantly grow up, that's why this short list is not complete. For latest projects, please check our official 
+list of projects on https://github.com/Telecommunication-Telemedia-Assessment
