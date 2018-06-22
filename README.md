@@ -31,4 +31,4 @@ We are current or former members of two university chairs:
 
 ## Other Projects
 
-Our list of projects constantly grows, that's why this short list is not complete. For the latest projects, please check our official list of projects on [GiThub](https://github.com/Telecommunication-Telemedia-Assessment).
+Our list of projects constantly grows, that's why this short list is not complete. For the latest projects, please check our official list of projects on [GitHub](https://github.com/Telecommunication-Telemedia-Assessment).
