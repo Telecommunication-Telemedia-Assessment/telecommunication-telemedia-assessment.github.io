@@ -9,7 +9,7 @@ We are current or former members of two university chairs:
 
 # Collection of repositories
 
-## Video Quality
+## 📹 Video Quality
 
 - [ITU-T P.1203 Repositories](https://telecommunication-telemedia-assessment.github.io/p1203/): Collection of repositories for ITU-T P.1203 standard for HTTP Adaptive Streaming quality measurement.
 
@@ -17,15 +17,15 @@ We are current or former members of two university chairs:
 
 - [SITI](https://github.com/Telecommunication-Telemedia-Assessment/SITI): A command-line-based tool for Windows to calculate spatial information (SI) and temporal information (TI) according to ITU-T P.910.
 
-## Saliency Prediction
+## 👁️ Saliency Prediction
 
 - [GBVS360, BMS360, ProSal](https://github.com/Telecommunication-Telemedia-Assessment/GBVS360-BMS360-ProSal): Extending existing saliency prediction models from 2D to omnidirectional images.
 
-## Virtual Reality
+## 👓 Virtual Reality
 
 - [AVTrack360](https://github.com/Telecommunication-Telemedia-Assessment/AVTrack360): This repository contains AVTrack360, a tool for recording the 3 rotation angles Pitch/Yaw/Roll around the 3 Axes X/Y/Z while a user is watching an omnidirectional video via an HMD. It also contains a dataset of the head rotation data and Simulator Sickness Questionnaire (SSQ) results of 48 participants watching 20 30s long different omnidirectional videos using the HTC Vive. Tools for evaluating the SSQ and head rotation data are also given.
 
-## CrowdSourcing
+## 👥 CrowdSourcing
 
 - [CrowdWatcher](https://github.com/Telecommunication-Telemedia-Assessment/CrowdWatcher): This project is the open-source eye tracking platform. It enables researchers to measure visual attention and user engagement in a crowdsourcing context through traditional RGB webcams.
 
