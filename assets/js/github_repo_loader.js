@@ -11,12 +11,12 @@ function http_get(theUrl) {
 function add_top5_repos() {
     request_url = "https://api.github.com/orgs/Telecommunication-Telemedia-Assessment/repos?sort=created";
     console.log(request_url);
-    res = JSON.parse(http_get(request_url)).slice(0, 5);
+    res = JSON.parse(http_get(request_url));
     console.log(res);
     var result_div = document.getElementById("top-5-projects");
     var result_list = document.createElement("ul");
 
-    res.forEach(
+    res.filter(repo => !repo["fork"]).slice(0, 5).forEach(
         function(repo) {
             console.log(repo["name"], repo["html_url"], repo["description"]);
             var list_element = document.createElement("li");
