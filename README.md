@@ -12,6 +12,8 @@ We are current or former members of two university chairs:
 
 ## 📹 Video Quality
 
+- [P.1204.3 and P.1203 Overview](https://telecommunication-telemedia-assessment.github.io/bitstream_based_models/)
+
 - [ITU-T P.1204.3 Referenz Implementation](https://github.com/Telecommunication-Telemedia-Assessment/bitstream_mode3_p1204_3): Open source reference implementation of ITU-T P.1204.3, the video bitstream parser is also published, see [bitstream_mode3_videoparser](https://github.com/Telecommunication-Telemedia-Assessment/bitstream_mode3_videoparser).
 
 - [ITU-T P.1203 Repositories](https://telecommunication-telemedia-assessment.github.io/p1203/): Collection of repositories for ITU-T P.1203 standard for HTTP Adaptive Streaming quality measurement.
