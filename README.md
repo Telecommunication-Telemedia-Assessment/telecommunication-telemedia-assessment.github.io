@@ -28,6 +28,7 @@ We are current or former members of two university chairs:
 
 ## 🖼 Image Quality
 - [Image Compression Evaluation](https://github.com/Telecommunication-Telemedia-Assessment/image_compression): An evaluation of different video codecs to compress still images, there is also a dataset included.
+- [Sophoappeal Project](https://github.com/Telecommunication-Telemedia-Assessment/sophoappeal): Evaluation of image appeal (dataset, models and more).
 
 
 ## 👁️ Saliency Prediction
