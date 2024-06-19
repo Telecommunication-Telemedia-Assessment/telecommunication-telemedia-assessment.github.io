@@ -14,6 +14,8 @@ We are current or former members of two university chairs:
 
 ### Models
 
+- [AVQBits](https://github.com/Telecommunication-Telemedia-Assessment/p1204_3_extensions): The AVQBits model collection is a set of open-source extensions for the ITU-T P.1204.3 model operating in different modes.
+
 - [P.1204.3 and P.1203 Overview](https://telecommunication-telemedia-assessment.github.io/bitstream_based_models/): An introduction to P.1203 and P.1204.3 models and their implementation.
 
 - [ITU-T P.1204.3 Reference Implementation](https://github.com/Telecommunication-Telemedia-Assessment/bitstream_mode3_p1204_3): Open source reference implementation of ITU-T P.1204.3
