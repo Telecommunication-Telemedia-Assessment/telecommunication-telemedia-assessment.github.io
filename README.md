@@ -6,6 +6,7 @@ Key aspect of our approach is to consider both the user and technical informatio
 We are current or former members of two university chairs:
 
 * [Audiovisual Technology Group (AVT)](https://www.tu-ilmenau.de/en/audio-visual-technology/), Institute for Media Technology — TU Ilmenau, Germany
+* [Institut für Nachrichtentechnik (IENT)](https://www.ient.rwth-aachen.de/), RWTH Aachen, Germany
 * Assessment of IP-based Applications (AIPA), Telekom Innovation Laboratories / TU Berlin, Germany <!--  https://www.aipa.tu-berlin.de/menue/assessment_of_ip_based_applications/ link outdated -->
 
 # Collection of repositories
